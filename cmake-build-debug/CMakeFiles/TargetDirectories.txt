@@ -1,0 +1,3 @@
+C:/Users/Kauã/Desktop/Testev2/cmake-build-debug/CMakeFiles/Testev2.dir
+C:/Users/Kauã/Desktop/Testev2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kauã/Desktop/Testev2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
